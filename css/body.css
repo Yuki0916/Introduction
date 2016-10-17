@@ -1,12 +1,12 @@
 body {
-  margin-top: 60px;
+	margin-top: 60px;
 }
 .css-selector {
-font-family: 'Indie Flower', serif;
+	font-family: 'Indie Flower', serif;
 }
 h1, h2, h4, p{
-text-align: center;
+	text-align: center;
 }
 li{
-text-align: left;
+	text-align: left;
 }
